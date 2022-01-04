@@ -1,8 +1,6 @@
-provider "aws" {
-}
+provider "aws" {}
 
-provider "grafana" {
-}
+provider "grafana" {}
 
 terraform {
   required_providers {
