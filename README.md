@@ -2,7 +2,7 @@
 
 You can find third-party providers and community providers on the website [registry.terraform.io](https://registry.terraform.io/browse/providers)
 
-The difference between a third party provider and an official one is the namespace in which terraform will look for the provider. 
+The difference between a third party provider and an official provider in case of downloading the provider is the namespace. 
 
 In this example you will install an official provider and a third-party provider to see the difference between the two. 
 
