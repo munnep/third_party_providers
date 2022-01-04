@@ -1,4 +1,4 @@
-# third_party_providers
+# Example: Third-party Providers
 
 You can find third-party providers and community providers on the website [registry.terraform.io](https://registry.terraform.io/browse/providers)
 
