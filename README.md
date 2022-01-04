@@ -73,3 +73,7 @@ terraform init
 - Installing grafana/grafana v1.17.0...
 - Installed grafana/grafana v1.17.0 (signed by a HashiCorp partner, key ID 570AA42029AE241A)
 ```
+- Download came from 
+```
+registry.terraform.io/grafana/
+```
